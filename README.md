@@ -119,7 +119,7 @@ Today is day 9.
 You have $10.00
 The chance of rain is 13%.
 How many glasses of lemonade would you like to make today? 10
-It was sunny! You sold all any lemonade.
+It was sunny! You sold all your lemonade.
 
 Today is day 10.
 You have $15.00
