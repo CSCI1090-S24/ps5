@@ -12,7 +12,7 @@ The deliverables for this problem set are the following:
 * Before every function, describe what it does and what its arguments are. Exception: you do not need to explain what `main()` is for.
 * Before every variable, explain what value it is holding. Exception: variables that appear after the keyword `for`.
 
-**Remember** Now at the top of very files, you will include your honor pledge. The first four lines (comments) of every Python file should be this information. You will lose one point if you don't include these four lines.
+**Remember** Now at the top of every file, you will include your honor pledge. The first four lines (comments) of every Python file should be this information. You will lose one point if you don't include these four lines.
 
 * The name of the file.
 * Your name.
