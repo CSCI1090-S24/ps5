@@ -64,74 +64,64 @@ A glass sells for $1.
 If it's sunny, you'll sell all the lemondade you make.
 If it rains, you won't sell any lemondade.
 Your goal is to get to $20 in 10 days.
+
 Today is day 1.
-
-
 You have $10.00
 The chance of rain is 71%.
 How many glasses of lemonade would you like to make today? 300
 You don't have enough money to make that much lemonade.
 How many glasses of lemonade would you like to make today? 0
 It rained! You didn't sell any lemonade.
+
 Today is day 2.
-
-
 You have $10.00
 The chance of rain is 23%.
 How many glasses of lemonade would you like to make today? 10
 It rained! You didn't sell any lemonade.
+
 Today is day 3.
-
-
 You have $5.00
 The chance of rain is 16%.
 How many glasses of lemonade would you like to make today? 10
 It was sunny! You sold all your lemonade.
+
 Today is day 4.
-
-
 You have $10.00
 The chance of rain is 75%.
 How many glasses of lemonade would you like to make today? 0
 It was sunny! You sold all your lemonade.
+
 Today is day 5.
-
-
 You have $10.00
 The chance of rain is 98%.
 How many glasses of lemonade would you like to make today? 0
 It rained! You didn't sell any lemonade.
+
 Today is day 6.
-
-
 You have $10.00
 The chance of rain is 71%.
 How many glasses of lemonade would you like to make today? 0
 It rained! You didn't sell any lemonade.
+
 Today is day 7.
-
-
 You have $10.00
 The chance of rain is 96%.
 How many glasses of lemonade would you like to make today? 0
 It rained! You didn't sell any lemonade.
+
 Today is day 8.
-
-
 You have $10.00
 The chance of rain is 59%.
 How many glasses of lemonade would you like to make today? 0
 It rained! You didn't sell any lemonade.
+
 Today is day 9.
-
-
 You have $10.00
 The chance of rain is 13%.
 How many glasses of lemonade would you like to make today? 10
 It was sunny! You sold all any lemonade.
+
 Today is day 10.
-
-
 You have $15.00
 The chance of rain is 81%.
 How many glasses of lemonade would you like to make today? 0
