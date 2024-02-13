@@ -31,15 +31,16 @@ You will let the user play the game, keeping track each day of the number of gla
 I've given you some starter code. You will have two chunks of code to write.
 
 **Chunk 1:** `while()` loop to run the game
+
 While the number of days so far is less than 10:
   * Tell the user the current day.
   * The the user how much money they have right now.
   * Generate a random number between 0 and 1 to serve as the `chance of rain`.
-  * Ask the user how many glasses of lemonade they want to make. If they say more glasses than they have money to make, let them know and then ask them again for the numerb of glasses they want to make.
+  * Ask the user how many glasses of lemonade they want to make. If they say more glasses than they have money to make, let them know and then ask them again for the number of glasses they want to make until they pick a number that they can afford.
   * Get another random number between 0 and 1.
       - If it's less than the `chance of rain`, it rained. No lemonade was sold, so deduct 50 cents for each glass made from the user's total money.
       - If it's more than the `chance of rain`, it was sunny. All the lemonade was sold, so add 50 cents for each glass ($1 sale price minus 50 cents cost to make the lemonade) to the user's total money.
-  * Enter the stats into the list of lists called `stats`: the number of glasses they made, the number of glasses they sold, the chance of rain that day, and whether or not it was sunny.
+  * Enter the stats for the day as a list into the list of lists called `stats`: the number of glasses they made, the number of glasses they sold, the chance of rain that day, and whether or not it was sunny.
 
 **Chunk 2:** Calculate and report statistics of the game
 * Using a for loop over the `stats` list of lists, calculate
@@ -69,14 +70,14 @@ The chance of rain is 71%.
 How many glasses of lemonade would you like to make today? 300
 You don't have enough money to make that much lemonade.
 How many glasses of lemonade would you like to make today? 0
-It rained! You didn't sell your lemonade.
+It rained! You didn't sell any lemonade.
 Today is day 2.
 
 
 You have $10.00
 The chance of rain is 23%.
 How many glasses of lemonade would you like to make today? 10
-It rained! You didn't sell your lemonade.
+It rained! You didn't sell any lemonade.
 Today is day 3.
 
 
@@ -97,42 +98,42 @@ Today is day 5.
 You have $10.00
 The chance of rain is 98%.
 How many glasses of lemonade would you like to make today? 0
-It rained! You didn't sell your lemonade.
+It rained! You didn't sell any lemonade.
 Today is day 6.
 
 
 You have $10.00
 The chance of rain is 71%.
 How many glasses of lemonade would you like to make today? 0
-It rained! You didn't sell your lemonade.
+It rained! You didn't sell any lemonade.
 Today is day 7.
 
 
 You have $10.00
 The chance of rain is 96%.
 How many glasses of lemonade would you like to make today? 0
-It rained! You didn't sell your lemonade.
+It rained! You didn't sell any lemonade.
 Today is day 8.
 
 
 You have $10.00
 The chance of rain is 59%.
 How many glasses of lemonade would you like to make today? 0
-It rained! You didn't sell your lemonade.
+It rained! You didn't sell any lemonade.
 Today is day 9.
 
 
 You have $10.00
 The chance of rain is 13%.
 How many glasses of lemonade would you like to make today? 10
-It was sunny! You sold all your lemonade.
+It was sunny! You sold all any lemonade.
 Today is day 10.
 
 
 You have $15.00
 The chance of rain is 81%.
 How many glasses of lemonade would you like to make today? 0
-It rained! You didn't sell your lemonade.
+It rained! You didn't sell any lemonade.
 
 Thank you for playing Lemonade Stand!
 You finished the game with $15.00
@@ -140,9 +141,26 @@ You finished the game with $15.00
 ~~~~~~~~~~~~~~~~~~
 Here are your stats!
 
-You sold 20 glasses of lemonade in total
-You made 30 glasses of lemonade in total
-On average you sold 2.00 glases of lemonade each day
+You sold 20 glasses of lemonade in total.
+You made 30 glasses of lemonade in total.
+On average you sold 2.00 glases of lemonade each day.
 It was sunny 3 out of 10 days.
 The average chance of rain was 0.60.
 ```
+
+---
+
+## Deadline: Monday, February 19, 2024, at 11:59pm EST
+
+## Deliverables
+
+`lemonade.py`
+
+## Reminder: Important Guidelines
+* Points will be deducted if your output does not match the required format.
+* Points will be deducted if your files are not named as required.
+* Points will be deducted if your files are not in the correct location (i.e., in the top-level directory where you see the `README`.)
+* Points will be deducted if you do not include comments as desribed above.
+* Points will be deducted if you do not include your honor pledge at the top of each file.
+
+
