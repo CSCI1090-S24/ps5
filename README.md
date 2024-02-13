@@ -1,7 +1,7 @@
 # Problem Set 5
 You should feel comfortable with GitHub by now. If you're not, come to office hours with me or the TAs.
 
-If you think you see an error or typo, let me know! I will update [this version of the repo](https://github.com/CSCI1090-S24/ps4) with any corrections you suggest.
+If you think you see an error or typo, let me know! I will update [this version of the repo](https://github.com/CSCI1090-S24/ps5) with any corrections you suggest.
 
 The deliverables for this problem set are the following:
 
