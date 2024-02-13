@@ -51,7 +51,7 @@ While the number of days so far is less than 10:
   - (3) the average number of glasses sold per day;
   - (4) the number of sunny days; and
   - (5) the average chance of rain over the 10 days. 
-* Print out these statistics to the user, using the wording shows in the example below.
+* Print out these statistics to the user, using the wording shown in the example below.
 
 Your output will look something like this, though the numbers will be different.
 
