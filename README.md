@@ -28,7 +28,7 @@ A glass of lemonade costs 50 cents to make, and each glass sells for $1. Every d
 
 You will let the user play the game, keeping track each day of the number of glasses they make, the number of glasses they sell, the chance of rain that day, and whether or not it was sunny.
 
-I've given you some starter code. You will have two chunks of code to write.
+I've given you some starter code in `lemonade.py`. I recommend that you use the starter code. You will have two chunks of code to write.
 
 **Chunk 1:** `while()` loop to run the game
 
